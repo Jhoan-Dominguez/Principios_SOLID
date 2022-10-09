@@ -125,44 +125,44 @@ Cuando hay un cambio, solo hay que modificar un solo lugar. | Un cambio implicar
 Este tipo de duplicidad se pude trabar con parámetros u optimizaciones. | Incrementa posibilidades de error humano al olvidar una parte para actualizar. |
  | | mayor cantidad de pruebas innecesarias.|
 
+
 **Otros olores honoríficos.**
 <p align = "center" style="font-style: italic;"> Inflación - métodos.</p>
 <p align="center">
-  <img src="./assets/img/inflacion/inflacion.png" width="600">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/b344019fcca42fc7e13198cbcc666db86b706e9f/assets/img/inflacion/inflacion.PNG" width="800">
 </p>
 
 <p align = "center" style="font-style: italic;"> Inflación - clases.</p>
  <p align="center">
-  <img src="./assets/img/inflacion/class-inflacion.png" width="600">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/b344019fcca42fc7e13198cbcc666db86b706e9f/assets/img/inflacion/class-inflacion.PNG" width="800">
 </p>
 
 <p align = "center" style="font-style: italic;"> Inflación - obsesión primitiva.</p>
 <p align="center">
-  <img src="./assets/img/inflacion/obsesion-inflacion.png" width="600">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/b344019fcca42fc7e13198cbcc666db86b706e9f/assets/img/inflacion/obsesion-inflacion.PNG" width="800">
 </p>
 
 <p align = "center" style="font-style: italic;"> Inflación - lista larga de parámetros.</p>
 <p align="center">
-  <img src="./assets/img/inflacion/parametros-inflacion.png" width="600">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/b344019fcca42fc7e13198cbcc666db86b706e9f/assets/img/inflacion/parametros-inflacion.PNG" width="800">
 </p>
 
 <p align = "center" style="font-style: italic;"> Acoplador - Feautre envy.</p>
 <p align="center">
-  <img src="./assets/img/acoplador/feature-acoplador.png" width="600">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/b344019fcca42fc7e13198cbcc666db86b706e9f/assets/img/acoplador/feature-acoplador.PNG" width="800">
 </p>
 
 <p align = "center" style="font-style: italic;"> Acoplador - Intimidad inapropiada.</p>
 <p align="center">
-  <img src="./assets/img/acoplador/intimidad-acoplador.png" width="600">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/b344019fcca42fc7e13198cbcc666db86b706e9f/assets/img/acoplador/intimidad-acoplador.PNG" width="800">
 </p>
 
 <p align = "center" style="font-style: italic;"> Acoplador - Cadenas de mensajes.</p>
 <p align="center">
-  <img src="./assets/img/acoplador/cadena-acoplador.png" width="600">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/b344019fcca42fc7e13198cbcc666db86b706e9f/assets/img/acoplador/cadena-acoplador.PNG" width="800">
 </p>
 
 <p align = "center" style="font-style: italic;"> Acoplador - The middle man.</p>
 <p align="center">
-  <img src="./assets/img/acoplador/middle-acoplador.png" width="600">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/2738480c5f13b729ba15aaff4ee3bbbc513a3f22/assets/img/acoplador/middle-acoplador.PNG" width="800">
 </p>
-
