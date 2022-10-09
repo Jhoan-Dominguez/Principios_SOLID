@@ -164,5 +164,5 @@ Este tipo de duplicidad se pude trabar con parámetros u optimizaciones. | Incre
 
 <p align = "center" style="font-style: italic;"> Acoplador - The middle man.</p>
 <p align="center">
-  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/5158dd4d9c1171c703c7631482f422ec279362ee/assets/img/acoplador/cadena-acoplador.PNG" width="800">
+  <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/2738480c5f13b729ba15aaff4ee3bbbc513a3f22/assets/img/acoplador/middle-acoplador.PNG" width="800">
 </p>
