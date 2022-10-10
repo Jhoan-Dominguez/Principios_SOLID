@@ -166,3 +166,14 @@ Este tipo de duplicidad se pude trabar con parámetros u optimizaciones. | Incre
 <p align="center">
   <img src="https://github.com/Jhoan-Dominguez/Principios_SOLID/blob/2738480c5f13b729ba15aaff4ee3bbbc513a3f22/assets/img/acoplador/middle-acoplador.PNG" width="800">
 </p>
+
+# Principios SOLID
+
+Los principios SOLID nos indican como organizar nuestras funciones y estructuras de datos en componentes y como dichos componentes deben estar interconectados.
+
+- **S**ingle Responsability: Responsabilidad única.
+- **O**pen and Close: Abierto y cerrado.
+- **L**iskov Substitution: Sustitución de Liskov.
+- **I**nterface Segregation: Segregación de interfaz.
+- **D**ependency Inversion: Inversion de dependencia.
+
