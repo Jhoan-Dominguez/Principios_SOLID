@@ -177,3 +177,22 @@ Los principios SOLID nos indican como organizar nuestras funciones y estructuras
 - **I**nterface Segregation: Segregación de interfaz.
 - **D**ependency Inversion: Inversion de dependencia.
 
+|Principio|Descripción| Smells|
+-|-|-|
+SRP| Diseñar componentes que solamente estén expuestos a una única fuente de cambio.| |
+OCP|Establece que las entidades de software (clases, módulos, métodos, etc.) deben estar abiertas para la extension, pero cerradas para la modificación| - Cambios que afectan nuestra clase o modulo. <br> -Cuando una clase o modulo afecta muchas capas.|
+LSP| Siendo U un subtipo de T, cualquier instancia de T debería poder ser sustituida por cualquier instancia U sin alterar las propiedades del sistema. |  |
+ISP | Establece que los clientes no deberían verse forzados a depender de interfaces que no usan.| -Si las interfaces implementadas nos obligan a violar los principios SRP, LSP.|
+DIP | Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones. Las abstracciones no deben de depender de concreciones. Los detalles deben depender de abstracciones.| 
+
+**Depender de abstracciones** <br>
+Uno de los motivos mas importantes por el cual las reglas de negocio o capa de dominio deben de depender de estas y no de concreciones es que aumentan su tolerancia al cambio.
+
+**Por que obtenemos este beneficio?** <br>
+Cada cambio en un componente abstracto implica un cambio en su implementación. <br>
+Por el contrario, los cambios en implementaciones concretas, la mayoría de veces, no requieren cambios en las interfaces que implementa.
+
+**Inyección de dependencias** <br>
+- Dependencia en programación, significa que un modulo o componente requiere de otro para poder realizar su trabajo.
+
+En algún momento de nuestro programa o aplicación llegara a estar formado por muchos módulos. Cuando esto pase, es cuando debemos usar inyección de dependencias, lo cual nos permitirá controlar las funcionalidades desde un sitio en concreto, ademas de que este aislamiento nos ayudara a hacer un testing mas fácil.

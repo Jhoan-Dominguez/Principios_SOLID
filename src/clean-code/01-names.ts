@@ -14,7 +14,7 @@
     // Archivos marcados para borrar - files to delete
     const filesToDelete = filesToEvaluate.map( file => file.flagged );
 
-    //Malos
+    // Malos
     class AbstractUser { };
     class UserMixin { };
     class UserImplementation { };
@@ -34,7 +34,7 @@
     const elapsedTimeInDays: number = 23;
     
     // número de archivos en un directorio - number of files in directory
-    const numOfFilesInDir = 33;
+    const numberOfFilesInDirectory = 33;
     
     // primer nombre - first name
     const firstName = 'Fernando';
@@ -43,10 +43,13 @@
     const lastName = 'Herrera';
 
     // días desde la última modificación - days since modification
-    const dsm = 12;
+    const daysSinceLastModification = 12;
     
     // cantidad máxima de clases por estudiante - max classes per student
-    const maxClassPerStudent = 6;
+    const maxClassesPerStudent = 6;
 
 
 })();
+
+
+
